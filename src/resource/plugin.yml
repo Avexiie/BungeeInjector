@@ -1,0 +1,9 @@
+name: ${project.artifactId}
+version: ${project.version}
+main: ${project.groupId}.spigot.SpigotInjector
+
+authors: [Avexiie]
+description: ${plugin.description}
+
+commands:
+  bungeeinjector:
